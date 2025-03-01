@@ -17,4 +17,4 @@ A single Led can be connected to the output
 
 A single USB
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED
